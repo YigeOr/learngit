@@ -1,2 +1,3 @@
 Yige's first git project.
 It's just for test.
+Git is a distributed version control system.
